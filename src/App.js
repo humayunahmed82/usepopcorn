@@ -289,7 +289,7 @@ const MovieDetails = ({
 	// 	setIsTop(imdbRating > 8);
 	// }, [imdbRating]);
 
-	const isTop = imdbRating > 8;
+	// const isTop = imdbRating > 8;
 
 	// const [avgRating, setAvgRating] = useState(0);
 
