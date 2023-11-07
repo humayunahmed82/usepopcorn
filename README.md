@@ -1,4 +1,23 @@
 
+# Hi, I'm Humayun Ahmed! 👋
+
+
+## 🚀 About Me
+I'm a Front End Developer 
+
+Experienced Front-End Developer with 4+ years of experience designing and developing user-friendly and responsive websites and web applications. Skilled in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, and Next.js. Passionate about creating visually appealing and user-friendly interfaces.
+
+## 🛠 Skills
+HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, and Next.js
+
+
+# React js usePopcon
+
+Hey there! This is a cool React.js project that lets you search for movies, view the search results, check out detailed information about a particular movie, and even rate movies.
+
+[View Demo](https://ha-usepopcon.netlify.app/)
+
+[![](https://i.ibb.co/H4LN7WW/usepopcon.gif)](https://ha-usepopcon.netlify.app/)
 
 ## Available Scripts
 
